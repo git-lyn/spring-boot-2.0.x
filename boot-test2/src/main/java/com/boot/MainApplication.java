@@ -24,6 +24,7 @@ public class MainApplication //extends SpringBootServletInitializer
 //	}
 
 	public static void main(String[] args) {
+		// 提交
 		SpringApplication.run(MainApplication.class);
 	}
 }
